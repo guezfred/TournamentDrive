@@ -1,0 +1,6 @@
+il nous faut des tables
+
+- joueurs (is_capitaine) et (is_arbitre)
+- equipes
+- terrains 
+- matchs
