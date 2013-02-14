@@ -7,7 +7,7 @@ il nous faut des tables
 
 Proposition de tables : 
 
-Joueur (id, nom, prénom, NumEquipe, adresse, cp, ville, age, date_de_naissance)
+Joueur (id, nom, prenom, NumEquipe, adresse, cp, ville, age, date_de_naissance)
 Equipe (NumEquipe, NbJoueurs, VilleEquipe, Capitaine)
 Terrains (NumTerrain, NomTerrain)
 Match (NumMatch, NumEquipeA, NumEquipeB, HeureDebutMatch, HeureFinMatch)
