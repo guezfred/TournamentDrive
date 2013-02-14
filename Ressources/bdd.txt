@@ -4,3 +4,10 @@ il nous faut des tables
 - equipes
 - terrains 
 - matchs
+
+Proposition de tables : 
+
+Joueur (id, nom, prénom, NumEquipe, adresse, cp, ville, age, date_de_naissance)
+Equipe (NumEquipe, NbJoueurs, VilleEquipe)
+Terrains (NumTerrain, NomTerrain)
+Match (NumMatch, NumEquipeA, NumEquipeB, HeureDebutMatch, HeureFinMatch)
